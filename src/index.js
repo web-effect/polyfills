@@ -1,6 +1,7 @@
 require('@babel/polyfill');
 require('whatwg-fetch');
 require('ie11-custom-properties');
+require('url-search-params-polyfill');
 
 
 
